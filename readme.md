@@ -1,6 +1,6 @@
-## Webkaos Fancy Errors
+## WEBKAOS Fancy Errors
 
-Fancy error pages for Webkaos/Nginx.
+Fancy error pages for WEBKAOS/Nginx.
 
 ### License
 
